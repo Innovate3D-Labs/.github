@@ -5,7 +5,7 @@ Dies ist die Offizielle GitHub-Seite von [Innovate3D-Labs](https://innovate3d-la
 ---
 # Contributors
 
-Jannik Kugler [Webseite](https://chill-zone.xyz) [Github](https://github.com/EinsPommes) 
+Jannik Kugler [Webseite](https://chill-zone.xyz) [Github](https://github.com/EinsPommes) <br>
 Thomas Eglseder [Webseite](https://www.typtech.de) [Github](https://github.com/TypTech) 
 
 ---

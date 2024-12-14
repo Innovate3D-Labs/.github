@@ -1,4 +1,4 @@
-# Willkommen bei Innovate3D-Labs
+# Willkommen bei Innovate3D-Labs > "Shaping the Future, Layer by Layer."
 
 Dies ist die Offizielle GitHub-Seite von [Innovate3D-Labs](https://innovate3d-labs.de). Hier findest du unsere Projekte, Anleitungen und Open-Source-Lösungen.
 
@@ -14,5 +14,3 @@ Thomas Eglseder [Webseite](https://www.typtech.de) [Github](https://github.com/T
 **Besuche uns hier: [Innovate3D-Labs GitHub](https://github.com/Innovate3D-Labs)**
 
 ---
-
-> "Shaping the Future, Layer by Layer."

@@ -35,7 +35,7 @@ Mit jedem Projekt verfolgen wir das Ziel, Technologien zugänglicher, effiziente
 
 ### 🧑‍💻 Thomas Eglseder  
 - 🌐 [Website](https://www.typtech.de)  
-- 💻 [GitHub](https://github.com/TypTech)  EEE
+- 💻 [GitHub](https://github.com/TypTech)
 
 ---
 
